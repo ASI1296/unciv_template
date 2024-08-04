@@ -1,0 +1,37 @@
+[
+  //Spectator
+  {
+    "name": "Spectator",
+    "outerColor": [255,255,255]
+//    "innerColor": [255,255,255]
+  },
+
+  {
+    //nations
+    "name": "",
+    "leaderName": "",
+    "adjective": [""],//国家形容词
+    "startBias": [""],
+    "preferredVictoryType": "",
+
+    "starIntroPart1": "",
+    "starIntroPart2": "",
+
+    "declaringWar": "",
+    "attacked": "",//被宣战
+    "defeated": "",//被击败
+    "introduction": "",//问候
+
+    "neutralHello": "",
+    "hateHello": "",
+
+    "tradeRequest": "",
+
+    "outerColor": [],//主颜色
+    "innerColor": [],//字颜色
+    "favoredReligion": "",
+    "uniqueName": "",
+    "uniques": [],
+    "cities": [],
+  },
+]
