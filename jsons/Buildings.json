@@ -2,12 +2,24 @@
   {
     "name": "",
     "cost": "",
-    "faith": ,
-    "cityStrength": ,
-    "hurryCostModifier": ,
+    "maintenance": ,//建筑物的维护费用
+    "isWonder": ,
+    "isNationalWonder": ,
+    "requireBuilding": "",
+    "requireTech": "",
+    "requireResource": "",
+    "requiredNearbyImprovedResources": [],//必备资源
     "replaces": "",
     "uniqueTo": "",
+    "cityStrength": ,
+    "cityHealth": ,
+    "hurryCostModifier": ,//涨价
+    "quote": "",//如果这座建筑是一个（国家）奇迹，这个字符串将显示在完成弹出窗口中
     "uniques": [],
-    "requiredTech": "",
-  }
+    "replacementTextForUniques": "",
+    "percentStaBonus": [],//建筑物提供的统计的百分比加成
+    "greatPersonPoints": ,//建筑每回合生成伟人点
+    "specialistSlots": ,//该大楼提供的专业名额
+    "civilopediaText": [],
+  },
 ]

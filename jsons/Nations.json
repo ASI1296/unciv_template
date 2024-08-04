@@ -10,10 +10,15 @@
     //nations
     "name": "",
     "leaderName": "",
-    "adjective": [""],//国家形容词
+    "style": "",//附加到像素图名称的修饰
+    "cityStateType": "",//区分主要文明和城邦
+//    "adjective": [""],
+
     "startBias": [""],
     "preferredVictoryType": "",
-
+    "personality": "",
+    "favoredReligion": "",
+    
     "starIntroPart1": "",
     "starIntroPart2": "",
 
@@ -27,11 +32,12 @@
 
     "tradeRequest": "",
 
-    "outerColor": [],//主颜色
-    "innerColor": [],//字颜色
-    "favoredReligion": "",
+    "innerColor": [],
+    "outerColor": [],
     "uniqueName": "",
+    "uniqueText": "",
     "uniques": [],
     "cities": [],
+    "civilopediaText": [],
   },
 ]

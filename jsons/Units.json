@@ -3,11 +3,28 @@
   {
     "name": "",
     "unitType": "",
-    "movement": ,
-    "promotions": ,
-    "uniques": [],
     "cost": ,
+
+    "movement": ,
+    "strength": ,
+    "rangedStrength": ,
+    "religiousStrength": ,
+    "range": ,
+    "intercepRange": ,//拦截范围
+
+    "requiredTech": ,
+    "obsoleteTech": ,
+    "requiredResource": ,
+    "upgradesTo": "",
+    "replaces": "",
+    "hurryCostModifier": ,
+    
+    "promotions": ,
     "uniqueTo": "",
-    "attackSound": ""
+    "uniques": [],
+    "replacementTextForUniques": "",
+    "attackSound": "",
+
+    "civilopediaText": [],
   },
 ]
