@@ -22,7 +22,7 @@
     "starIntroPart1": "",
     "starIntroPart2": "",
 
-    "declaringWar": "",
+    "declaringWar": "",//宣战
     "attacked": "",//被宣战
     "defeated": "",//被击败
     "introduction": "",//问候
